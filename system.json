@@ -1,0 +1,25 @@
+{
+    "name": "only-war",
+    "title": "Only War",
+    "description": "Guardsmen Simulator",
+    "author": "Ben Chode",
+    "version": "0.0.1",
+    "minimumCoreVersion": "10",
+    "compatibleCoreVersion": "10",
+    "esmodules": [
+        "only-war.js"
+    ],
+    "styles":[
+
+    ],
+    "packs":[
+
+    ],
+    "languages":[
+
+    ],
+    "gridDistance": 1,
+    "gridUnits": "m",
+    "primaryTokenAttribute": null,
+    "secondaryTokenAttribute": null
+}
