@@ -2,7 +2,11 @@
     "name": "only-war",
     "title": "Only War",
     "description": "Guardsmen Simulator",
-    "authors": "Ben Chode",
+    "authors": [
+        {
+            "name": "json-by-jason"
+        }
+    ],
     "version": "0.0.1",
     "compatibility" : {
         "minimum" : 10,
