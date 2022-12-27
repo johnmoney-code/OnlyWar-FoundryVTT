@@ -28,6 +28,8 @@
     "gridDistance": 1,
     "gridUnits": "m",
     "primaryTokenAttribute": null,
+
     "secondaryTokenAttribute": null,
     "url": "https://github.com/json-by-jason/OnlyWar-FoundryVTT"
+
 }
